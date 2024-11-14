@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/favorite-movies-list-reactjs/static/css/main.d6615393.css",
+    "main.js": "/favorite-movies-list-reactjs/static/js/main.796b0c86.js",
+    "static/js/453.0efbee3d.chunk.js": "/favorite-movies-list-reactjs/static/js/453.0efbee3d.chunk.js",
+    "index.html": "/favorite-movies-list-reactjs/index.html",
+    "main.d6615393.css.map": "/favorite-movies-list-reactjs/static/css/main.d6615393.css.map",
+    "main.796b0c86.js.map": "/favorite-movies-list-reactjs/static/js/main.796b0c86.js.map",
+    "453.0efbee3d.chunk.js.map": "/favorite-movies-list-reactjs/static/js/453.0efbee3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6615393.css",
+    "static/js/main.796b0c86.js"
+  ]
+}
